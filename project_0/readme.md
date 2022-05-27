@@ -1,12 +1,12 @@
 # Проект 0. Угадай число
 
 ## Оглавление
-[1. Описание проекта](https://github.com/ElenaDvoretskaya/sf_data_science/blob/main/project_0/readme.md#Описание-проекта)
-[2. Какой кейс решаем?](https://github.com/ElenaDvoretskaya/sf_data_science/blob/main/project_0/readme.md#Какой-кейс-решаем)
-[3. Краткая информация о данных](https://github.com/ElenaDvoretskaya/sf_data_science/blob/main/project_0/readme.md#Краткая-информация-о-данных)
-[4. Этапы работы над проектом](https://github.com/ElenaDvoretskaya/sf_data_science/blob/main/project_0/readme.md#Этапы-работы-над-проектом)
-[5. Результаты](https://github.com/ElenaDvoretskaya/sf_data_science/blob/main/project_0/readme.md#Результаты)
-[6. Выводы](https://github.com/ElenaDvoretskaya/sf_data_science/blob/main/project_0/readme.md#Выводы) 
+[1. Описание проекта](https://github.com/ElenaDvoretskaya/sf_data_science/blob/main/project_0/readme.md#Описание-проекта)   
+[2. Какой кейс решаем?](https://github.com/ElenaDvoretskaya/sf_data_science/blob/main/project_0/readme.md#Какой-кейс-решаем)    
+[3. Краткая информация о данных](https://github.com/ElenaDvoretskaya/sf_data_science/blob/main/project_0/readme.md#Краткая-информация-о-данных) 
+[4. Этапы работы над проектом](https://github.com/ElenaDvoretskaya/sf_data_science/blob/main/project_0/readme.md#Этапы-работы-над-проектом) 
+[5. Результаты](https://github.com/ElenaDvoretskaya/sf_data_science/blob/main/project_0/readme.md#Результаты)   
+[6. Выводы](https://github.com/ElenaDvoretskaya/sf_data_science/blob/main/project_0/readme.md#Выводы)    
 
 ### Описание проекта
 Угадать загаданное компьютерном число за минимальное число попыток.
